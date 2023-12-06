@@ -1,6 +1,6 @@
 {
   "name": "@somesmall.studio/hyper-mqtt",
-  "version": "0.0.0-alpa.2",
+  "version": "0.0.0-alpa.3",
   "description": "Run a local MQTT server (aedes) and share published packets on a hyperswarm",
   "main": "index.mjs",
   "bin": "./cli.js",
