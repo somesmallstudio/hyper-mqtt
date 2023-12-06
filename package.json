@@ -3,7 +3,9 @@
   "version": "0.0.0-alpa.1",
   "description": "Run a local MQTT server (aedes) and share published packets on a hyperswarm",
   "main": "index.mjs",
+  "bin": "./cli.js",
   "scripts": {
+    "start": "node index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jens alexander <hello@somesmall.studio>",
