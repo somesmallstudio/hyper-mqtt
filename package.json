@@ -14,7 +14,6 @@
     "aedes": "^0.50.0",
     "b4a": "^1.6.4",
     "graceful-goodbye": "^1.3.0",
-    "hypercore-crypto": "^3.4.0",
     "hyperswarm": "^4.7.13",
     "mqtt-packet": "^9.0.0"
   },
