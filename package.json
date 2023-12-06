@@ -1,0 +1,32 @@
+{
+  "name": "hyper-mqtt",
+  "version": "0.0.0-alpa.1",
+  "description": "Run a local MQTT server (aedes) and share published packets on a hyperswarm",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jens alexander <hello@somesmall.studio>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "aedes": "^0.50.0",
+    "b4a": "^1.6.4",
+    "graceful-goodbye": "^1.3.0",
+    "hypercore-crypto": "^3.4.0",
+    "hyperswarm": "^4.7.13",
+    "mqtt-packet": "^9.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somesmallstudio/hyper-mqtt.git"
+  },
+  "keywords": [
+    "decentralised",
+    "mqtt"
+  ],
+  "bugs": {
+    "url": "https://github.com/somesmallstudio/hyper-mqtt/issues"
+  },
+  "homepage": "https://github.com/somesmallstudio/hyper-mqtt#readme"
+}
